@@ -1,0 +1,11 @@
+zmiena zawieraj¹ca plik my_data
+j - zmienna pomocnicza
+months_amount - zmienna okreœlaj¹ca z ilu miesiêcy ma byæ analizowany pomiar temeperatur
+id - lista zawieraj¹ca id stacji, z której pochodzi pomiar temperatury w dany dzieñ
+element - lista okreœlaj¹ca czy dany pomiar jest temperatur¹ minimaln¹ czy maksymaln¹ danego dnia
+temperature - lista pomiarów temeperatur 
+dates - lista dat w których zosta³y wykonane pomiary
+days - s³ownik którego klucze to numery dnia w miesi¹cu a wartoœci to tokonane wtedy pomiary temperatur
+date - zmienna okreœlaj¹ca date w dniu pomiaru
+tabele1 - dataframe zawieraj¹cy dane w formie przejœciowej
+tabele2 - dataframe zawieraj¹cy dane w formie ostatecznej
