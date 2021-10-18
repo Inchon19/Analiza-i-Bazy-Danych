@@ -1,5 +1,5 @@
-1) Z foldera 'orginal_data' nale¿y skopiowaæ zawartoœæ danych z pliku 'weather.txt' i zapisaæ je w nowo stworzonym pliku nazwanym 'my_data.txt'
-2) Plik 'Lab2_zad1.ipynb' z foldera 'commad_files' nale¿y otworzyæ w przegl¹darce za pomoc¹ Google Colab
-3) Do otwartego notatnika nale¿y za³adowaæ stworzony wczeœnie plik 'my_data'
-4) Program nalezy uruchamiaæ komórka po komórce
-5) Ostateczne dane w bardziej czytenej formie bêd¹ wyœwietlone na koñcu notatnika
+1) Z foldera 'orginal_data' naleÅ¼y skopiowaÄ‡ zawartoÅ›Ä‡ danych z pliku 'weather.txt' i zapisaÄ‡ je w nowo stworzonym pliku nazwanym 'my_data.txt'
+2) Plik 'Lab2_zad1.ipynb' z foldera 'commad_files' naleÅ¼y otworzyÄ‡ w przeglÄ…darce za pomocÄ… Google Colab
+3) Do otwartego notatnika naleÅ¼y zaÅ‚adowaÄ‡ stworzony wczeÅ›niej plik 'my_data'
+4) Program nalezy uruchamiaÄ‡ komÃ³rka po komÃ³rce
+5) Ostateczne dane w bardziej czytenej formie bÄ™dÄ… wyÅ›wietlone na koÅ„cu notatnika
